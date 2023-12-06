@@ -24,7 +24,8 @@ __[Step 1] Start GUI form__
 
 Open the “GUI.fig” from MATLAB.
 
-![タイトルなし](https://user-images.githubusercontent.com/114337358/192756887-25b36670-8faa-423f-b535-63a536ced8c8.png)
+![image](https://github.com/KRproject-tech/FreeSurface_Vortex_Sheet_Model/assets/114337358/1ec9b2fd-6ca4-4a68-bffa-2ccf86901921)
+
 
 __[Step 2] Pre-setting__
 
