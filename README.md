@@ -16,7 +16,19 @@
 <p>
 
 
-Free Surface with RAYLEIGH TAYLOR instability modeled by the vortex sheet model. 
+__Free Surface with RAYLEIGH TAYLOR instability modeled by the vortex sheet model.__
+
+
+## Directory    
+<pre>
+├─cores
+│  ├─functions
+│  └─ToolBoxes
+│      └─mmwrite
+├─Ref
+└─save
+    └─fig
+</pre>
 
 ## Preparation before analysis
 
