@@ -16,7 +16,7 @@
 <p>
 
 
-__Free Surface with RAYLEIGH TAYLOR instability modeled by the vortex sheet model.__
+__Free Surface with RAYLEIGH TAYLOR instability modeled by the vortex sheet model [^1].__
 
 
 ## Directory    
@@ -54,5 +54,9 @@ Push the “plot” button.
 __[Step 5] View plotted results__
 
 Results (figures and movie) plotted by [Step 4] are in "./save" directory.
+
+### References  
+[^1]: Meng-Yu Lin and Guo-Zhen Liao, Vortex shedding around a near-wall circular cylinder induced by a solitary wave, Journal of Fluids and Structures, Vol. 58, 2015.
+
 
 
