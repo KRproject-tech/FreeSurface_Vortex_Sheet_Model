@@ -30,7 +30,7 @@ __Free Surface with RAYLEIGH TAYLOR instability modeled by the vortex sheet mode
     └─fig
 </pre>
 
-## Preparation before analysis
+## Analysis procedure
 
 __[Step 1] Start GUI form__
 
